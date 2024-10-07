@@ -1,8 +1,7 @@
 # graduation_project
 #### 임신 및 육아 중인 부모를 위한 자연어처리 기반 감정분석 다이어리 어플리케이션입니다.
 
-![Project (4)](https://github.com/user-attachments/assets/b7dc4c5c-0373-471d-8ce0-b1c328ff0dc5)
-
+![Project](https://github.com/user-attachments/assets/96f63c0b-fd8e-44b1-ab11-7f7704655ef1)
 
 - 일기분석을 통한 감정분석 및 LLM 공감형 반응 제공
 - data : [감성대화말뭉치](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86), 모두의 말뭉치-일기, 네이버 카페 <맘스홀릭> 크롤링
